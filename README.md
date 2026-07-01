@@ -5,7 +5,7 @@
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/drone/drone-ui.git
+   git clone https://github.com/open-beagle/bdpulse-ui.git
    ```
 
 2. **Install dependencies**
@@ -117,7 +117,7 @@ Make sure you have updated and added the following files.
 * `./CHANGELOG.md`
 * `dist/dist_gen.go`
 
-Look here for an [example](https://github.com/drone/drone-ui/pull/420)
+Look here for an [example](https://github.com/open-beagle/bdpulse-ui/pull/420)
 
 ### Release the new version
 

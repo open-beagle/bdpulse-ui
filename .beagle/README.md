@@ -1,6 +1,6 @@
 # drone/drone-ui
 
-<https://github.com/drone/drone-ui>
+<https://github.com/open-beagle/bdpulse-ui>
 
 ```bash
 git remote add upstream git@github.com:drone/drone-ui.git
